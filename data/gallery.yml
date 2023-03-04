@@ -1,12 +1,15 @@
 ---
-title : "Take a look at Our Exibhition"
+title : "Unleash your creativity with access to the tools of your dreams!"
 enable: true
 subtitle: >
-        We are the world’s largest provider of flexible workspace solutions,
-        with customers including some of the most successful entrepreneurs
+    Our workshop is equipped with soldering irons, cutting mats, screwdrivers, and even a 3D printer. Join us now to explore the endless possibilities of making! And stay tuned as we continue to add more tools to our arsenal.
 galleryImage: 
  - image: "images/gallery/gallery01.jpg"
+   image_summary: "Everything you need to build your components into a working prototype"
  - image: "images/gallery/gallery02.jpg"
+   image_summary: "Turn your ideas into reality with our 3D printer"
  - image: "images/gallery/gallery03.jpg"
+   image_summary: "Free WiFi for supporters and members"
  - image: "images/gallery/gallery04.jpg"
+   image_summary: "Refreshments including tea & coffee available"
 ---

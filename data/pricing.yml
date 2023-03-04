@@ -2,8 +2,7 @@
 enable: true
 title: "Membership"
 subtitle: >
-          Whether you're looking for a full-time workspace or are just visiting Melbourne,
-           we've got an option for everyone
+    Get ready to join the fun! Come along to our next Open Night and sign up for a membership that gives you access to our awesome makerspace.
 buttonTarget: "contact"
 itemPrices:
   - packcage: "Supporter"

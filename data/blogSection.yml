@@ -1,7 +1,7 @@
 ---
-enable: true
-title: "News, updates and insights"
+enable: false
+title: "Latest updates!"
 subtitle: >
-          With a decade of insights and expertise, we’re reimagining property so that you can focus on your business.
+          Member projects, planed events, and news - keep up with the latest on Make Monmouth via our blog
 buttonTarget: blog
 ---
