@@ -2,6 +2,9 @@
   command = "hugo"
   publish = "public"
 
+[build.environment]
+  HUGO_VERSION="v0.111.1"
+
 [dev]
   framework = "hugo"
   targetPort = 3000
