@@ -3,7 +3,7 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION="v0.111.1"
+  HUGO_VERSION="v0.111.1-39a4a3cf676533859217805c36181c7a3dfa321c+extended"
 
 [dev]
   framework = "hugo"
