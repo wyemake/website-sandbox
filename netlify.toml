@@ -1,6 +1,6 @@
 [build]
-  command = "hugo build"
-  publish = "dist"
+  command = "hugo"
+  publish = "public"
 
 [dev]
   framework = "hugo"
