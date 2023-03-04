@@ -1,9 +1,11 @@
+resources/_gen
 node_modules/
 dist/
 site/data/webpack.json
 /npm-debug.log
 yarn-error.log
 .netlify/
+public/
 
 cypress/videos
 cypress/screenshots

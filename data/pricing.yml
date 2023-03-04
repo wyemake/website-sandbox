@@ -1,27 +1,19 @@
 ---
 enable: true
-title: "Simple pricing for everyone"
+title: "Membership"
 subtitle: >
           Whether you're looking for a full-time workspace or are just visiting Melbourne,
            we've got an option for everyone
 buttonTarget: "contact"
 itemPrices:
-  - packcage: "Daily"
+  - packcage: "Supporter"
     description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Expedita pariatur quidem, impedit ipsa repellat sed!
-    price: 19
+        As a supporter, you'll have access to the space on "Open Nights" and one member night of your choosing each month. You can also request storage space, such as shelves or cupboards, to keep your long-running projects. This membership tier is perfect for those who may not be able to commit to attending regularly but still want to be part of the community.
+    price: 5
     badge: 
-  - packcage: "Weekly"
+  - packcage: "Member"
     description: >
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Libero exercitationem sed eius autem quisquam sapiente?
-    price: 79
+        As a member of Make Monmouth, you'll have access to the space on "Open Nights" and anytime a key holder is present. You can also request access to the space outside usual meeting times, subject to availability. Members get priority storage space and get to hear about events and workshops first. Perfect for those who love to tinker!
+    price: 10
     badge: popular
-  - packcage: "Monthly"
-    description: >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, 
-                quas nesciunt vitae suscipit necessitatibus ea.
-    price: 99
-    badge:
 ---

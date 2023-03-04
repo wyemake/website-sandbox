@@ -6,24 +6,24 @@ title = 'Make Monmouth'
  
 [Menu]
   # Main Menu
-  [[menu.Main]]
-  name = "Exibhition"
-  url= "#gallery"
-  weight = 1
-  [[menu.Main]]
-  name = "Feature"
-  url= "#service"
-  weight = 1
+#  [[menu.Main]]
+#  name = "Exibhition"
+#  url= "#gallery"
+#  weight = 1
+#  [[menu.Main]]
+#  name = "Feature"
+#  url= "#service"
+#  weight = 1
   [[menu.Main]]
   name = "About"
   url= "/about/"
   weight = 3
+#  [[menu.Main]]
+#  name = "Blog"
+#  url= "#blog"
+#  weight = 4
   [[menu.Main]]
-  name = "Blog"
-  url= "#blog"
-  weight = 4
-  [[menu.Main]]
-  name = "Pricing"
+  name = "Join Us"
   url= "#pricing"
   weight = 5
   [[menu.Main]]
