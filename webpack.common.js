@@ -53,7 +53,7 @@ module.exports = {
   plugins: [
     new AssetsPlugin({
       filename: "webpack.json",
-      path: path.join(process.cwd(), "site/data"),
+      path: path.join(process.cwd(), "data"),
       prettyPrint: true
     }),
     new CopyWebpackPlugin({
