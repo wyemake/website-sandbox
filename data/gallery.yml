@@ -1,11 +1,8 @@
 ---
 title : "Unleash your creativity with access to the tools of your dreams!"
-enable: false
+enable: true
 subtitle: >
-    Our workshop is equipped with soldering irons, cutting mats, screwdrivers, and even a 3D printer. Join us now to explore the endless possibilities of making! And stay tuned as we continue to add more tools to our arsenal.
-
-
-    Members also get access to our WiFi Network, and discounts on components and other things from The Pi Hut and PiMoRoNi!
+    Our workshop is equipped with soldering irons, cutting mats, screwdrivers, and even a 3D printer. Join us now to explore the endless possibilities of making!
 galleryImage: 
  - image: "images/gallery/gallery01.jpg"
    image_summary: "Everything you need to build your components into a working prototype"
@@ -14,5 +11,5 @@ galleryImage:
  - image: "images/gallery/gallery03.jpg"
    image_summary: "Free WiFi for supporters and members"
  - image: "images/gallery/gallery04.jpg"
-   image_summary: "Refreshments including tea & coffee available"
+   image_summary: "Discounts from leading suppliers"
 ---
