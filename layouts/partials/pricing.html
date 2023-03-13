@@ -14,7 +14,7 @@
       {{ range .itemPrices}}
       <div class="card">
         <div class="card-header">
-            <h3 class="text-center">{{.packcage}} - <sup>£</sup>{{.price}}<sup> / month</sup></h3>
+            <h3 class="text-center">{{.packcage}}<br />£{{.price}} / month</h3>
         </div>
         <div class="card-body">
             <ul>
@@ -29,7 +29,7 @@
             </p>
           </div>
        <div class="card-footer text-center">
-          <a href="{{ .buttonTarget | absURL}}" class="btn btn-primary">Join Us</a>
+          <a href="{{ .buttonTarget }}" class="btn btn-primary">Join Us</a>
         </div>
       </div>
       {{end}}
