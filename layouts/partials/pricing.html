@@ -10,25 +10,30 @@
           </p>
         </div>
       </div>
+      <div class="card-deck">
       {{ range .itemPrices}}
-      <div class="col-lg-4 col-md-6">
-        <div class="pricing-wraper">
-          <div class="pricing-item">
-            {{if .badge}}
-            <span class="pricing-item-badge">Popular</span>
-            {{end}}
-            <span class="price">
-                <sup>£</sup>{{.price}}<sup> / month</sup>
-            </span>
-            <h3>{{.packcage}}</h3>
+      <div class="card">
+        <div class="card-header">
+            <h3 class="text-center">{{.packcage}} - <sup>£</sup>{{.price}}<sup> / month</sup></h3>
+        </div>
+        <div class="card-body">
+            <ul>
+            {{ range .benefits }}
+            <li>
+               {{.}}
+            </li>
+            {{ end }}
+            </ul>
             <p>
-               {{.description}}
+               {{ .description }}
             </p>
           </div>
-          <!-- a href="{{ .buttonTarget | absURL}}" class="btn btn-primary">Join Us</a>-->
+       <div class="card-footer text-center">
+          <a href="{{ .buttonTarget | absURL}}" class="btn btn-primary">Join Us</a>
         </div>
       </div>
       {{end}}
+      </div>
     </div>
   </div>
 </section>
