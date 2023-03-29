@@ -71,7 +71,7 @@ title = 'Make Monmouth'
   # Socail icons
   [[params.social]]
   icon = "ti-facebook"
-  url = "facebook.com/groups/makemonmouth"
+  url = "https://facebook.com/groups/makemonmouth"
   weight = 1
   [[params.social]]
   icon = "ti-twitter-alt"
