@@ -3,18 +3,23 @@ enable: true
 title: "Frequently Asked Questions"
 faq:
   - question: "Q. How do I apply?"
-    answer: >
+    answer: |
             Come along to one of our Open Nights and chat with one of our members.  We can get you signed up on the spot!
+  - question: "Q. Can I bring my child with me?"
+    answer: |
+            We are happy to welcome young people to the space so they can work on their own projects.  Any young person attending the space *must* be in year 10 of schooling or above, have started their GCSE's or equivalent, and bring along their own projects to work on unless we are running a workshop where materials etc. are provided.
+
+            Young people must also be accompanied by an adult who is responsible for their behaviour at all times, and that adult must be either a supporter or member of the space for insurance purposes.
   - question: "Q. I've heard you also have Core Members - what are they?"
-    answer: >
+    answer: |
             Core members make up the team who drive the decisions at Make Monmouth.  Anyone can apply after they have been a member or supporter for more than 6 consecutive months, and they are elected to the core team based on a vote of the membership. Core Members are expected to pay £10/month for their membership fees.
   - question: "Q. What additional duties do Core Members have?"
-    answer: >
+    answer: |
             Core Members take on many additional responsibilities as part of their role including (but not limited to) opening and locking up the space at the start of each meeting, being "on-call" in the event of an emergency at the space, and ensuring that the space is used and maintained to a suitably high standard.
   - question: "Q. Do you provide a discount for anyone?"
-    answer: >
+    answer: |
             We think our prices are fair for what we can offer, however if you would prefer to pay an alternative amount please contact a member of the core team and we will discuss your situation in strictest confidence before making a decision.  
   - question: "Q. Can I pay more than the membership fee each month?"
-    answer: >
+    answer: |
             Keeping track of multiple payments and the membership levels they apply to is tricky, however we are more than happy to accept donations. Please contact a Core Member if you would like to discuss how you can support Make Monmouth financially.
 ---
