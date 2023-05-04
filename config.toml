@@ -7,17 +7,17 @@ title = 'Make Monmouth'
 [Menu]
   # Main Menu
   [[menu.Main]]
-  name = "Facilities"
-  url= "#gallery"
+  name = "About Us"
+  url= "#service"
   weight = 1
 #  [[menu.Main]]
 #  name = "Feature"
 #  url= "#service"
 #  weight = 1
-  [[menu.Main]]
-  name = "About"
-  url= "/about/"
-  weight = 3
+#  [[menu.Main]]
+#  name = "About"
+#  url= "/about/"
+#  weight = 3
 #  [[menu.Main]]
 #  name = "Blog"
 #  url= "#blog"

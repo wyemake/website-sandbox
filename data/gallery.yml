@@ -1,8 +1,8 @@
 ---
 title : "Unleash your creativity with access to the tools of your dreams!"
-enable: true
-subtitle: >
-    Our workshop is equipped with soldering irons, cutting mats, screwdrivers, and even a 3D printer. Join us now to explore the endless possibilities of making!
+enable: false
+subtitle: |
+    Our workshop is equipped with soldering irons, cutting mats, screwdrivers, and even a 3D printer, with new tools and materials being added all the time. 
 galleryImage: 
  - image: "images/gallery/gallery01.jpg"
    image_summary: "Everything you need to build your components into a working prototype"
