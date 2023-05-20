@@ -7,7 +7,7 @@
         <div class="section-title">
           <h2>{{ .title | safeHTML }}</h2>
           <p>
-            {{.subtitle}}
+            {{.subtitle|markdownify}}
           </p>
         </div>
       </div>
@@ -19,7 +19,7 @@
           <div class="gallery-item">
             <a href="{{ .image | absURL }}" data-source="{{ .image | absURL }}"
                 title="{{ .image_summary }}">
-                <img src="{{ .image | absURL }}" alt="gallery-images">
+                <img src="{{ .image | absURL }}" alt="{{ .image_summary }}">
             </a>
           </div>
         </div>
