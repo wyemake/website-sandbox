@@ -11,7 +11,7 @@ itemPrices:
         - Request storage space for long-running projects
     price: 5
     badge: 
-    buttonTarget: https://members.makemonmouth.co.uk/adm_program/modules/registration/registration.php
+    buttonTarget: https://members.makemonmouth.co.uk/register
   - packcage: "Member"
     benefits:
         - Access to the space on Open Nights
@@ -21,5 +21,5 @@ itemPrices:
         - First refusal on events and workshops
     price: 10
     badge: popular
-    buttonTarget: https://members.makemonmouth.co.uk/adm_program/modules/registration/registration.php
+    buttonTarget: https://members.makemonmouth.co.uk/register
 ---
