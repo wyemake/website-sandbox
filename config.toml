@@ -3,6 +3,7 @@ languageCode = 'en-gb'
 paginate = 6
 theme= "coHub"
 title = 'Make Monmouth'
+enableEmoji = true
  
 [Menu]
   # Main Menu
