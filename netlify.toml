@@ -4,3 +4,4 @@
 
 [build.environment]
   HUGO_VERSION="0.111.1"
+  GIT_DEPLOY=true
