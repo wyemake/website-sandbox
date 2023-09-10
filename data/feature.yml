@@ -1,14 +1,14 @@
 ---
 enable: true
-title: Ultimate experiences with story, emotion
-description: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
-description2: Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs.
-buttonText: Try It Free
-Title2nd: Product start analytics with real problems.
-description2nd: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
+title: Unleash your creativity
+description: Make Monmouth was set up to enable crafters, makers, tinkerers, and hackers in the area to come together and create in a safe, welcoming, inclusive environment.
+description2: Our members have access to equipment that they might not otherwise have room for or be able to afford at home, allowing them to expand their creativity and build bigger and better things than ever before!
+buttonText: Sign up now
+Title2nd: Keep up to date even when the space is closed 
+description2nd: Our online communities on Facebook and Discord mean the conversations keep going even when we can't all be in the same place!
 image1: images/feature/feature-illustration-one.svg
 image2: images/feature/feature-illustration-two.svg
 checkItem:
-  - text: Next to the hosting account you want to use.
-  - text: Select or enter the domain name you want to use.
-  - text: After you purchase a hosting plan.
+  - text: Private Discord channels for members and supporters
+  - text: Vote on the equipment you want us to buy next
+  - text: Share content with other members even when we're not meeting up

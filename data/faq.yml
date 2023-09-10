@@ -1,19 +1,22 @@
 ---
 enable: true
 title: Frequently asked questions
-description: The quick brown fox jumps over a lazy dog. DJs flock by when MTV ax Error6251 is the best. quiz prog. Junk MTV quiz graced by fox whelps.
+description: |
+  Got a question about the group? Look here first!
+  
+  If it's not here, drop us an email
 faqItem:
-  - question: How to Install Apsho?
-    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+  - question: When do you meet?
+    answer: Open Nights are on the first Tuesday of every month, with member nights on the third Tuesday.  All meetings run between 8pm and 10pm at Woodland Stores, Wyesham, NP25 3LD
     dataTarget: One
     show: show
 
   - question: Is there any age limit?
-    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+    answer: We welcome anyone from the age of 12 upwards however, there are rules in place for younger people to ensure their safety. Anyone under the age of 18 *MUST* be accompanied by an adult at all times.
     dataTarget: Two
-    show: 
+    show:
     
-  - question: How much it costs to get started?
-    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+  - question: How much is membership?
+    answer: Supporters are £5/month, members are £10/month.  For more information on the differences between the two, please see the section above
     dataTarget: Three
     show: 
