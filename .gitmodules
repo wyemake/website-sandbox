@@ -3,4 +3,4 @@
 	url = https://github.com/StaticMania/hugo-coHub.git
 [submodule "themes/apsho"]
 	path = themes/apsho
-	url = git@github.com:StaticMania/hugo-apsho.git
+	url = https://github.com/StaticMania/hugo-apsho.git
