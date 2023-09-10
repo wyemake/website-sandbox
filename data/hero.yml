@@ -1,9 +1,9 @@
 ---
-title : "<h1>BUILD, CONNECT, CREATE</h1>"
 enable: true
-subtitle: >
-    Join our inclusive community workshop to build amazing things, connect with others, and pursue your passions with a range of tools and resources.
-heroBGimg: "images/hero/hero-bg.jpg"
-heroVideo : "https://vimeo.com/804565067?autoplay=1&rel=0"
-herosVideoDesc: "<span>Learn more about <strong>Make Monmouth</strong> in 30 Seconds</span>"
----
+title: Your Community Makerspace
+caption: Make Monmouth
+description: The perfect environment for people of all ages, backgrounds, and skills to escape the shed or spare room and work on their projects in the company of like-minded others.
+buttonName: Learn more
+button1text: about membership
+button2text: about us
+image: images/hero/hero-image.svg

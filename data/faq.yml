@@ -1,27 +1,19 @@
 ---
 enable: true
-title: "Frequently Asked Questions"
-faq:
-  - question: "Q. How do I apply?"
-    answer: |
-            Come along to one of our Open Nights and chat with one of our members.  We can get you signed up on the spot!
-  - question: "Q. Can I bring my child with me?"
-    answer: |
-            We are happy to welcome young people to the space so they can work on their own projects.  
-            
-            We allow young people from 12 years and older into the space, however there are restrictions on what they can do depending on age.
-            
-            Young people must also be accompanied by an adult who is responsible for their behaviour at all times, and more details can be found in our [members handbook](https://docs.makemonmouth.co.uk/en/latest/rules/03_young_people/)
-  - question: "Q. I've heard you also have Core Members - what are they?"
-    answer: |
-            Core members make up the team who drive the decisions at Make Monmouth.  Anyone can apply after they have been a member or supporter for more than 6 consecutive months, and they are elected to the core team based on a vote of the membership. Core Members are expected to pay £10/month for their membership fees.
-  - question: "Q. What additional duties do Core Members have?"
-    answer: |
-            Core Members take on many additional responsibilities as part of their role including (but not limited to) opening and locking up the space at the start of each meeting, being "on-call" in the event of an emergency at the space, and ensuring that the space is used and maintained to a suitably high standard.
-  - question: "Q. Do you provide a discount for anyone?"
-    answer: |
-            We think our prices are fair for what we can offer, however if you would prefer to pay an alternative amount please contact a member of the core team and we will discuss your situation in strictest confidence before making a decision.  
-  - question: "Q. Can I pay more than the membership fee each month?"
-    answer: |
-            Keeping track of multiple payments and the membership levels they apply to is tricky, however we are more than happy to accept donations. Please contact a Core Member if you would like to discuss how you can support Make Monmouth financially.
----
+title: Frequently asked questions
+description: The quick brown fox jumps over a lazy dog. DJs flock by when MTV ax Error6251 is the best. quiz prog. Junk MTV quiz graced by fox whelps.
+faqItem:
+  - question: How to Install Apsho?
+    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+    dataTarget: One
+    show: show
+
+  - question: Is there any age limit?
+    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+    dataTarget: Two
+    show: 
+    
+  - question: How much it costs to get started?
+    answer: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus a, expedita dolorum consequatur magni commodi tempore nesciunt soluta veritatis corporis iste labore eaque aliquam, sapiente debitis dignissimos aut exercitationem minima.
+    dataTarget: Three
+    show: 
