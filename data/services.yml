@@ -4,13 +4,13 @@ enable: true
 title: You can benefit more than you think
 services:
   - icon: ti-settings
-    title: No Setup
-    description: They generate alignment and engagement
+    title: Access to tools and equipment
+    description: 3D Printers, Vinyl Cutters, and much, much more!
 
   - icon: ti-check-box
-    title: Free Trial
-    description: They generate alignment and engagement
+    title: Community Support
+    description: Learn from your peers, get help with your projects
 
   - icon: ti-key
-    title: Quick Access
-    description: They generate alignment and engagement
+    title: Unlock your potential
+    description: Workshops, storage space, and all the tools you need to turn your ideas into reality

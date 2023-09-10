@@ -3,7 +3,6 @@ enable: true
 title: Your Community Makerspace
 caption: Make Monmouth
 description: The perfect environment for people of all ages, backgrounds, and skills to escape the shed or spare room and work on their projects in the company of like-minded others.
-buttonName: Learn more
-button1text: about membership
-button2text: about us
+buttonName: Sign up
+button1text: and become a member
 image: images/hero/hero-image.svg
