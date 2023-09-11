@@ -6,8 +6,8 @@ description2: Our members have access to equipment that they might not otherwise
 buttonText: Sign up now
 Title2nd: Keep up to date even when the space is closed 
 description2nd: Our online communities on Facebook and Discord mean the conversations keep going even when we can't all be in the same place!
-image1: images/feature/feature-illustration-one.svg
-image2: images/feature/feature-illustration-two.svg
+image1: images/feature/box1.png
+image2: images/feature/box2.png
 checkItem:
   - text: Private Discord channels for members and supporters
   - text: Vote on the equipment you want us to buy next
