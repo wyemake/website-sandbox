@@ -3,15 +3,15 @@ enable: true
 title: What do our members think?
 description: 
 comments:
-  - text: Make Monmouth is amazing
-    name: Juhair Islam
-    designation: Senior Developer
+  - text: I've been struggling to find ways to be sociable since COVID and Make Monmouth has given me a fun, safe environment to hang out with like minded folk. The bonus is that I also get to work on a project that I've been failing to commit time to at home because there's always something else to do.
+    name: Owen
+    designation: Co-founder
     image: images/client/client-2.png
 
-  - text: I'm so glad I signed up
-    name: Jona Raisha
-    designation: UX Designer
-    image: images/client/client-1.png
+  - text: Make Monmouth gets me out of the house whilst still enabling me to work on the projects I'd usually be doing in my garage.  I can get advice from other members, have a good laugh, and it does wonders for my mental health!
+    name: Matt
+    designation: Co-founder
+    image: images/client/client-2.png
 
   - text: Robots, Robots, Robots
     name: Xevier John

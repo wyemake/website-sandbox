@@ -28,11 +28,7 @@ theme = "apsho"
     url = "#"
     weight = 1
 [[menu.sitemap]]
-    name = "Latest Article"
-    url = "/blog"
-    weight = 2
-[[menu.sitemap]]
-    name = "Privacy & Policy"
+    name = "Privacy Policy"
     url = "/privacy"
     weight = 3
 [[menu.sitemap]]
@@ -60,9 +56,9 @@ fabFormURL = "https://fabform.io/f/zWMBVeW"
 googleAnalytics = "UA-175025671-2"
 
 # Footer
-footerTitle = "Get the latest app updates"
+footerTitle = ""
 copyright1 = "All right reserved"
-copyright2 = "Copyright ©  <a href=\"https://staticmania.com/\" target=\"_blank\">StaticMania </a> {year}"
+copyright2 = "&copy; Make Monmouth CIC {year}"
 
 #contact
 email = "info@makemonmouth.co.uk"

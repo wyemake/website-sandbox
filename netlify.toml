@@ -5,3 +5,9 @@
 [build.environment]
   HUGO_VERSION="0.111.1"
   GIT_DEPLOY="true"
+
+[[redirects]]
+  from = "/privacy"
+  to   = "https://docs.makemonmouth.co.uk/en/latest/gdpr_notice/"
+  status = 301
+  force = true
