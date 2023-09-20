@@ -14,12 +14,12 @@ theme = "apsho"
     url = "#feature"
     weight = 2
 [[menu.main]]
-    name = "Services"
-    url = "#faq"
+    name = "Membership"
+    url = "#membership"
     weight = 3
 [[menu.main]]
-    name = "Blog"
-    url = "#blog"
+    name = "FAQ"
+    url = "#faq"
     weight = 4
 
 # Footer Sitemap
