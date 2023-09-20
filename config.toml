@@ -51,7 +51,7 @@ github = "https://github.com/StaticMania"
 [params]
 
 # Header
-logo = "images/logo.png"
+logo = "images/MakeMonmouth_Logo_Alt-01_20230920.svg"
 fabFormURL = "https://fabform.io/f/zWMBVeW"
 googleAnalytics = "UA-175025671-2"
 
