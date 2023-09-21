@@ -7,16 +7,16 @@ description: |
   If it's not here, drop us an email
 faqItem:
   - question: When do you meet?
-    answer: Open Nights are on the first Tuesday of every month, with member nights on the third Tuesday.  All meetings run between 8pm and 10pm at Woodland Stores, Wyesham, NP25 3LD
+    answer: Open Nights are on the first Tuesday of every month, with member nights on the third Tuesday.  All meetings run between 8pm and 10pm at [Woodland Stores, Wyesham, NP25 3LD](https://what3words.com/educates.obvious.foal)
     dataTarget: One
     show: show
 
   - question: Is there any age limit?
-    answer: We welcome anyone from the age of 12 upwards however, there are rules in place for younger people to ensure their safety. Anyone under the age of 18 *MUST* be accompanied by an adult at all times.
+    answer: We welcome anyone from the age of 12 upwards however, there are [rules in place](https://docs.makemonmouth.co.uk/en/latest/rules/03_young_people/) for younger people to ensure their safety. Anyone under the age of 18 *MUST* be accompanied by an adult at all times.
     dataTarget: Two
     show:
     
   - question: How much is membership?
-    answer: Supporters are £5/month, members are £10/month.  For more information on the differences between the two, please see the section above
+    answer: Supporters are £5/month, members are £10/month.  For more information on the differences between the two, [please see the section above](/#membership).
     dataTarget: Three
     show: 
