@@ -13,11 +13,11 @@ comments:
     designation: Co-founder
     image: images/client/client-2.png
 
-      #  - text: Robots, Robots, Robots
-      #    name: Xevier John
-      #    designation: CTO
-      #    image: images/client/client-3.png
-      #     
+  - text: I think Makerspaces are a brilliant idea for meeting new people with interesting ideas and skills. The access to equipment and people who can teach me how to use them is great. I looked at the map on https://www.hackspace.org.uk/ but there is a dearth of them in my area so I travel 30 miles each way and I think it is well worth it.
+    name: Kevin
+    designation: Member
+    image: images/client/client-2.png
+     
       #  - text: Utter madness...
       #    name: Kerri Reece
       #    designation: Designer
