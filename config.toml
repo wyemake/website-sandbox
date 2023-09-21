@@ -1,5 +1,5 @@
 # MAIN base
-#baseURL = "https://www.makemonmouth.co.uk/"
+baseURL = "https://www.makemonmouth.co.uk/"
 languageCode = "en-gb"
 title = "Make Monmouth | Monmouth's Community Makerspace"
 theme = "apsho"
