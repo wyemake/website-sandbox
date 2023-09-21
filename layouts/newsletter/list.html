@@ -1,18 +1,25 @@
 {{define "main"}}
-<section class="contact-section">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-10 mx-auto col-md-12">
-        <div class="page-header">
-          <h2> {{ .Title | emojify }}</h2>
-          <p>{{.Params.subTitle}}</p>
+
+{{ "<!--newsletter.html-->" | safeHTML }}
+  <section class="page-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h2>{{ .Title }}</h2>
+          <p>Our newsletter is the best place to learn more about who Make Monmouth are, what we hope to achieve, and how you can get involved, along with news on what we've been up to and events that are coming up. </p>
+          <p>
+          Interested? Just pop your details into the form below and we'll send you all the above at least once a month!</p>
         </div>
       </div>
     </div>
-    <div class="row">
-      <div class="col-lg-8 mx-auto">
-          <p>{{ .Content }}</p>
-          <script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
+  </section>
+  
+
+  <section class="contact">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto contact-form">
+            <script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
 <script>
   hbspt.forms.create({
     region: "eu1",

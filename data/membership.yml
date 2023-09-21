@@ -1,0 +1,26 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: What do I get as a member?
+subheading: All our members and supporters get free WiFi, access to the space, and can help us decide what we want to buy and what we want to do with the space.  There's not a lot between the two tiers at the moment, but as we grow, that will change!
+services:
+  - icon: ti-user
+    title: Supporter
+    cost: 5
+    description: For those who want space to build and create
+    list_items:
+      - Access to the space on Open Nights
+      - Access to the space on member and supporter nights*
+      - Request storage space for long-running projects
+    cta: Sign Up Today!
+
+  - icon: ti-user
+    title: Member
+    cost: 10
+    description: For those who want to come along more often
+    list_items:
+      - "Everything a supporter gets"
+      - Request access to the space even when we're closed
+      - Priority storage access
+      - First refusal on events
+    cta: Sign Up Today!

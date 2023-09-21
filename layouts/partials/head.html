@@ -1,39 +1,31 @@
-  <head>
-    <meta charset="utf-8" />
-    <title>{{.Title | emojify}}</title>
+<head>
+  <meta charset="utf-8" />
+  <title>{{ .Title }}</title>
 
-    {{ "<!--Meta For No Index-->" | safeHTML }}
-    <meta name="robots" content="noindex, Nofollow, Noimageindex">
 
-    {{ "<!--mobile responsive meta-->" | safeHTML }}
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, maximum-scale=1"
-    />
-    {{hugo.Generator}}
-    {{ "<!-- Critical CSS -->" | safeHTML }}
-    {{$style :=  resources.Get "scss/critical.scss" | resources.ToCSS | resources.Minify }}
-    <link href="{{ $style.Permalink }}" rel="stylesheet" />
-  
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
-    {{"<!-- Favicon -->" | safeHTML}}
-    <link rel="shortcut icon" href="{{"images/favicon.ico" | absURL}}" type="image/x-icon" />
-    <link rel="icon" href="{{"images/favicon.png" | absURL}}" type="image/x-icon" />
+  {{ "<!-- Themify -->" | safeHTML }}
+  <link rel="stylesheet" href="{{ "themify/themify.css" | absURL }}">
 
-    {{ with .Site.Params.googleAnalytics }}
-    {{ "<!-- Global Site Tag (gtag.js) - Google Analytics -->" | safeHTML }}
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-  
-      gtag('config', '{{ . }}');
-      
-    </script>
-    {{ end }}
+  {{ "<!-- Critical CSS -->" | safeHTML }}
+  {{ $stylex := resources.Get "scss/critical.scss" | resources.ToCSS | minify }}
+  <link href="{{ $stylex.Permalink }}" rel="stylesheet" />
 
-    
-  </head>
+  {{ "<!--Favicon-->" | safeHTML }}
+  <link rel="shortcut icon" href="{{ "images/MakeMonmouth_Logo_Alt-02_20230920.svg" | absURL }}" type="image/x-icon" />
+  <link rel="icon" href="{{ "images/MakeMonmouth_Logo_Alt-02_20230920.svg" | absURL }}" type="image/x-icon" />
+  {{ with site.Params.googleAnalytics }}
+  {{ "<!-- Google Analytics -->" | safeHTML }}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
+    gtag('config', '{{ . }}');
+  </script>
+	{{ end }}
+</head>
