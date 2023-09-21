@@ -1,90 +1,64 @@
-baseURL = 'https://makemonmouth.co.uk/'
-languageCode = 'en-gb'
-paginate = 6
-theme= "coHub"
-title = 'Make Monmouth'
-enableEmoji = true
- 
-[Menu]
-  # Main Menu
-  [[menu.Main]]
-  name = "About Us"
-  url= "#service"
-  weight = 1
-#  [[menu.Main]]
-#  name = "Feature"
-#  url= "#service"
-#  weight = 1
-#  [[menu.Main]]
-#  name = "About"
-#  url= "/about/"
-#  weight = 3
-#  [[menu.Main]]
-#  name = "Blog"
-#  url= "#blog"
-#  weight = 4
-  [[menu.Main]]
-  name = "Join Us"
-  url= "#pricing"
-  weight = 5
-  [[menu.Main]]
-  name = "FAQ"
-  url= "#faq"
-  weight = 6
-  [[menu.Main]]
-  name = "Contact"
-  url= "/contact/"
-  weight = 7
+# MAIN base
+baseURL = "https://www.makemonmouth.co.uk/"
+languageCode = "en-gb"
+title = "Make Monmouth | Monmouth's Community Makerspace"
+theme = "apsho"
 
-  # Sitemap Menu
-  [[menu.sitemap]]
-  name = "Privacy Policy"
-  url = "/privacy/"
-  weight = 1
-  [[menu.sitemap]]
-  name = "Terms"
-  url = "/terms/"
-  weight = 2
+# Navigation Bar
+[[menu.main]]
+    name = "Home"
+    url = "#hero"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "#feature"
+    weight = 2
+[[menu.main]]
+    name = "Membership"
+    url = "#membership"
+    weight = 3
+[[menu.main]]
+    name = "FAQ"
+    url = "#faq"
+    weight = 4
+
+# Footer Sitemap
+[[menu.sitemap]]
+    name = "Home"
+    url = "#"
+    weight = 1
+[[menu.sitemap]]
+    name = "Privacy Policy"
+    url = "/privacy"
+    weight = 3
+[[menu.sitemap]]
+    name = "Contact"
+    url = "/contact"
+    weight = 4
+
+# Footer Address
+[params.address]
+address = "Woodland Stores, Woodland View, Wyesham, NP25 3LD"
+email = "info@makemonmouth.co.uk"
+#phone = "+(448) 833 5272 332"
+
+# Footer Social
+[params.social]
+facebook = "https://www.facebook.com/pg/staticmania"
+twitter = "https://twitter.com/static_mania"
+github = "https://github.com/StaticMania"
 
 [params]
-  aboutPageURL = "blog"
-  contactLink = "contact"
-  copyright = "© {year} <a href=\"https://staticmania.com/\" target=\"_blank\">StaticMania </a>"
-  fabFormURL =  "https://fabform.io/f/0QEwCLn"
-  googleAnalytics = "G-4D14L44C5V"
-  logo = "images/logo.png"
-  footerlogo = "images/logo-footer.png"
-  footerDescription = "Make Monmouth is a diverse and inclusive community workshop where people of all backgrounds can come together to build amazing things. We offer a range of tools, resources, and events to help makers pursue their passions and connect with like-minded individuals."
 
-  [params.address]
-  address = "Make Monmouth, Woodland Stores, Wyesham, NP25 3LD"
-  email = "info@makemonmouth.co.uk"
-  openingDesc = "Drop in to one of our FREE Open Nights"
-  openingHours = "First Tuesday of each month, 8pm - 10pm"
-  phone = ""
+# Header
+logo = "images/MakeMonmouth_Logo_Alt-01_20230920.svg"
+fabFormURL = "https://fabform.io/f/zWMBVeW"
+googleAnalytics = "UA-175025671-2"
 
-  [params.map]
-  APIkey = "AIzaSyATT_8Je9Li3JOZZIjEzubC2jlEPCfAsmM"
-  latitude = "51.804570728210855"
-  longitude = "-2.698142463301246"
-  pinImage = "images/pin.png"
+# Footer
+footerTitle = "Make Monmouth CIC"
+copyright1 = "All right reserved"
+copyright2 = "&copy; Make Monmouth CIC {year}"
 
-  # Socail icons
-  [[params.social]]
-  icon = "ti-facebook"
-  url = "https://facebook.com/groups/makemonmouth"
-  weight = 1
-  [[params.social]]
-  icon = "ti-twitter-alt"
-  url = "https://twitter.com/MakeMonmouth"
-  weight = 2
-  [[params.social]]
-  icon = "ti-github"
-  url = "https://github.com/MakeMonmouth"
-  weight = 3
-  [[params.social]]
-  icon = "ti-instagram"
-  url = "https://www.instagram.com/MakeMonmouth"
-  weight = 4
-  
-  
+#contact
+email = "info@makemonmouth.co.uk"
