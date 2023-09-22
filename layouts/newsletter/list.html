@@ -1,0 +1,34 @@
+{{define "main"}}
+
+{{ "<!--newsletter.html-->" | safeHTML }}
+  <section class="page-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h2>{{ .Title }}</h2>
+          <p>Our newsletter is the best place to learn more about who Make Monmouth are, what we hope to achieve, and how you can get involved, along with news on what we've been up to and events that are coming up. </p>
+          <p>
+          Interested? Just pop your details into the form below and we'll send you all the above at least once a month!</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+
+  <section class="contact">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto contact-form">
+            <script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    region: "eu1",
+    portalId: "139551855",
+    formId: "c6ca8635-3e39-42aa-9eda-4b383dfa5cf7"
+  });
+</script>
+      </div>
+    </div>
+  </div>
+</section>
+{{end}}
