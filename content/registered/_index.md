@@ -1,5 +1,5 @@
 ---
-title: ":tada: Your registration is almost complete! :tada:"
+title: "Your registration is almost complete!"
 date: 2022-01-08T11:25:11+06:00
 subTitle: >
           We've got all your details in our system, and payment has been set up successfully.
