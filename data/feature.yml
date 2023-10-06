@@ -7,7 +7,7 @@ buttons:
   - text: Sign up now
     link: "#membership"
   - text: Learn More
-    link: /our_aims
+    link: /about
 Title2nd: Keep up to date even when the space is closed 
 description2nd: Our online communities on Facebook and Discord mean the conversations keep going even when we can't all be in the same place!
 image1: images/feature/box1.png
