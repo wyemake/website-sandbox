@@ -11,11 +11,15 @@ Our [original aim](/about/history/) was to find people that were like-minded, an
 
 Now we want to take that idea and grow it.
 
+## So what?
+
 Imagine a space in the heart of Monmouth Town that is open to members 24 hours a day, 7 days a week, 365 days a year, fully equipped with everything from sewing machines and soldering irons for basic household repairs through to laser-cutters, 3D printers, and CNC Machines to create product prototypes, with a membership structure that enables anyone to join regardless of their financial position.
 
 Imagine that same building containing a co-working space - based on the same principles of social inclusion and community spirit - with members of the co-working space able to access all the tools in the makerspace to enhance their products and develop their offerings to clients, supporting the makerspace and enabling us to keep our membership prices affordable whilst still being able to buy new equipment.
 
 Now let's take that idea further still - in the atrium of the building is a space for those same startups and members of the makerspace to sell their products from stalls that are a fraction of the rents required for a full unit.  The market place is there to support you and your business until you outgrow it and can move into a unit on the high street of your own, reducing the number of empty shops, increasing footfall, and providing a "destination town" for people interested in supporting independent businesses.
+
+## What if...
 
 The cherry on the top? Education.
 
