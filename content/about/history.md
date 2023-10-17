@@ -6,7 +6,7 @@ subTitle: >
 headerimg: /images/robot.jpg
 ---
 ### The history
-Make Monmouth was setup by one of our co-founders because he was fed up with being the "only geek in the area" that he knew.
+Make Monmouth was setup by one of our co-founders because he was fed up with being the "only geek in Monmouth" as far as he knew.
 
 A lack of suitable jobs in the immediate Monmouth area meant he was travelling to Worcester, Cardiff, Bristol, or even working away during the week in London, preventing him from having a social life in the area.
 
@@ -22,12 +22,12 @@ What this time did give us, however, was a determination to ensure Make Monmouth
 
 In 2021, whilst lockdowns were still in place, we took the decision to incorporate as a not-for-profit Community Interest Company, with a board of directors who would work on an entirely voluntary basis.
 
-As the world started to open up again, we also started to hold meetings, but this time with a proper rental agreement in place, a bank account, and "proper" insurance!
+As the world started to open up again, we also started to hold meetings, but this time with a proper rental agreement in place, a bank account, and insurance!
 
 {{< gallery src="/images/woodlandstores.jpg" caption="Our current home at Woodland Stores, Wyesham" >}}
 
 In the past 6 months, we've seen our membership grow from our four directors to 10 paying members with many others coming along to our free Open Night on a regular basis.  Our facebook group nows has over 350 members, and is growing all the time.
 
-Although we were originally setup for the people of Monmouth, our members are driving from as far as Malvern and the Forest of Dean to take advantage of the space, so we know that there's plenty of space for us to continue growing and providing access to tools, training, and workshops that the community would otherwise be unable to use in the coming years!
+Although we were originally setup for the people of Monmouth, our members are driving (don't get us started on the lack of public transport in the area!) from as far as Malvern and the Forest of Dean to take advantage of the space, so we know that there's plenty of need for us to continue growing and providing access to tools, training, and workshops that the community would otherwise be unable to use in the coming years!
 
 To learn more about our dreams for the future, visit our [aims and objectives](/about/aims).

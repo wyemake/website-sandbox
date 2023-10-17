@@ -28,3 +28,5 @@ We want to run regular workshops to teach the local community new skills. We wan
 We are Make Monmouth. We are determined to build on the past to ensure a better future for our town. We know our dreams can become a reality, and we'd love you to be a part of it.
 
 If you want to know more, join our [Facebook group](https://www.facebook.com/groups/makemonmouth) and come along to our next Open Night - we can't wait to meet you!
+
+[Return to the "about" page](/about)
