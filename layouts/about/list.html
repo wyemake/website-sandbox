@@ -1,0 +1,51 @@
+{{define "main"}}
+
+{{ "<!--registered.html-->" | safeHTML }}
+  <section class="page-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h2>{{ .Title }}</h2>
+          <h3>{{ .Params.subTitle }}</h3>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="contact">
+    <div class="container contact-form">
+      {{ $counter :=  1 }}
+      {{ range .Pages }}
+          {{ if (eq $counter 1) }}
+              <div class="row mx-auto mt-3">
+                  <div class="col-lg-12 mx-auto">
+                    <div class="card-deck">
+          {{ end }}
+                      <div class="card d-flex" style="width: 50%;">
+                          <div class="card-body">
+                              <a href="{{ .Permalink  }}"><img 
+                               class="card-img-top" 
+                               src="{{ .Params.headerimg }}"
+                               height=400
+                               /></a>
+                              <h5 class="card-title text-center">
+                                  <a href="{{ .Permalink  }}" style="color: black;">{{ .Title }}</a>
+                              </h5>
+                              <p class="card-text">
+                                  <a href="{{ .Permalink  }}" class="text-decoration-none" style="color: black;">
+                                      {{ .Params.subTitle }}
+                                  </a>
+                              </p>
+                          </div>
+                      </div>
+          {{ if not (eq $counter 0) }}
+              {{ $counter = sub $counter 1 }}
+          {{ else }}
+              {{ $counter = 1 }}
+                    </div>
+                  </div>
+              </div>
+          {{ end }}
+      {{ end }}
+    </div>
+  </section>
+      {{ end }}

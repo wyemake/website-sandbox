@@ -2,8 +2,13 @@
 enable: true
 title: Unleash your creativity
 description: Make Monmouth was set up to enable crafters, makers, tinkerers, and hackers in the area to come together and create in a safe, welcoming, inclusive environment.
-description2: Our members have access to equipment that they might not otherwise have room for or be able to afford at home, allowing them to expand their creativity and build bigger and better things than ever before!
-buttonText: Sign up now
+description2: | 
+  Our members have access to equipment that they might not otherwise have room for or be able to afford at home, allowing them to expand their creativity and build bigger and better things than ever before
+description3: >
+  [Learn More about our history](/about/history) and our [dreams for the future](/about/aims), or sign up via the button below! 
+buttons:
+  - text: Sign up now
+    link: "#membership"
 Title2nd: Keep up to date even when the space is closed 
 description2nd: Our online communities on Facebook and Discord mean the conversations keep going even when we can't all be in the same place!
 image1: images/feature/box1.png
