@@ -34,6 +34,9 @@
               <p>
                 {{ .description2 }}
               </p>
+              <p>
+                {{ .description3 | markdownify }}
+              </p>
               {{ $btns := .buttons }}
               {{ range $btns }}
               <a href="{{ .link }}" data-text={{ .text }} class="btn btn-primary">
