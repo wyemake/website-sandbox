@@ -21,6 +21,10 @@ theme = "apsho"
     name = "FAQ"
     url = "#faq"
     weight = 4
+[[menu.main]]
+    name = "Login"
+    url = "/login"
+    weight = 5
 
 # Footer Sitemap
 [[menu.sitemap]]

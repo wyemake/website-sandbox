@@ -17,3 +17,8 @@ command = "hugo -b $DEPLOY_PRIME_URL"
   to   = "https://docs.makemonmouth.co.uk/en/latest/gdpr_notice/"
   status = 301
   force = true
+[[redirects]]
+  from = "/login"
+  to   = "https://members.makemonmouth.co.uk/login"
+  status = 301
+  force = true
