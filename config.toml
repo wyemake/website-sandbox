@@ -48,9 +48,8 @@ email = "info@makemonmouth.co.uk"
 
 # Footer Social
 [params.social]
-facebook = "https://www.facebook.com/pg/staticmania"
-twitter = "https://twitter.com/static_mania"
-github = "https://github.com/StaticMania"
+facebook = "https://www.facebook.com/groups/makemonmouth"
+github = "https://github.com/MakeMonmouth"
 
 [params]
 
