@@ -10,7 +10,7 @@ Make Monmouth was setup by one of our co-founders because he was fed up with bei
 
 A lack of suitable jobs in the immediate Monmouth area meant he was travelling to Worcester, Cardiff, Bristol, or even working away during the week in London, preventing him from having a social life in the area.
 
-It started with a [Facebook Group](https://www.facebook.com/groups/makemonmouth) and a rant about the future of the town, then became a meeting at a local restaurant, and from there we discovered our home at [Woodland Stores](https://what3words.com/educates.obvious.foal).
+It started with a [Facebook Group](https://www.facebook.com/groups/makemonmouth) and a rant about the future of the town, then became a meeting at a local restaurant, and from there we discovered our home at [Woodland Stores](https://what3words.com/croutons.sonic.broads).
 
 {{< gallery src="/images/robot.jpg" caption="Robots on pub tables were not unusual in the early days!" >}}
 
