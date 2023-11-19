@@ -1,0 +1,17 @@
+{{define "main"}}
+
+{{ "<!--registered.html-->" | safeHTML }}
+  <section class="page-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h2>{{ .Title }}</h2>
+          <h3>{{ .Params.subTitle }}</h3>
+          <p>
+          {{ .Content }}
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+{{end}}
