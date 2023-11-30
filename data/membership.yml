@@ -11,6 +11,7 @@ services:
     list_items:
       - Access to the space on Open Nights
       - Access to the space on member and supporter nights*
+      - Access to our online Learning Platform
       - Request storage space for long-running projects
     cta: Sign Up Today!
 
