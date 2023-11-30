@@ -1,0 +1,13 @@
+---
+enable: true
+title: Our Sponsors
+description: "Make Monmouth would not be able to provide such an amazing space for folks to create in if it wasn't for the following sponsors:"
+sponsors:
+  - name: Monmouth Town Council
+    uri: http://www.monmouth.gov.uk/
+    logo: monmouth_town_council.jpg
+    description: Monmouth Town Council kindly funded our 3D Printer, Vinyl Cutter, and storage cupboards via their generous Community Fund
+  - name: Bitfolk
+    uri: https://bitfolk.com/
+    logo: bitfolk.png
+    description: Bitfolk kindly host our [Membership Portal](https://members.makemonmouth.co.uk/) and [Learning Platform](https://learn.makemonmouth.co.uk/) on one of their Virtual Private Servers.
