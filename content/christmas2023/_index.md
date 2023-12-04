@@ -6,7 +6,7 @@ subTitle: >
 ---
 In the spirit of Christmas, we're opening up the space to anyone who needs it to finish those final stiches on the home-made presents, or who just wants to craft or create in the company of others as we 
 
-We'll be open from 6pm on Tuesday 19th December 2023 at [Woodland Stores, Wyesham](https://what3words.com/croutons.sonic.broads)- we'll provide the mince pies, bring your own drinks!
+We'll be open from i8pm on Tuesday 5th December 2023 at [Woodland Stores, Wyesham](https://what3words.com/croutons.sonic.broads) to get started, and then on Tuesday 19th December 2023 we'll be open from 6:30pm with mince pies!
 
 To keep up to date with any annoucements on the event, please [join our Facebook group](https://www.facebook.com/groups/makemonmouth) or [sign up to our newsletter](https://makemonmouth.co.uk/newsletter/) and we'll let you know about any changes as we get closer to the 19th!
 
