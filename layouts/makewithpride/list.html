@@ -1,0 +1,48 @@
+{{define "main"}}
+
+{{ "<!--registered.html-->" | safeHTML }}
+  <section class="page-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h2>{{ .Title }}</h2>
+          <h3>{{ .Params.subTitle }}</h3>
+        </div>
+      </div>
+    </div>
+  </section>
+          {{ $image_right := 0 }}
+          {{ range .Params.sections }}
+  <section class="service">
+      <div class="container">
+         <div class="row">
+                  {{ if eq $image_right 0 }}
+            <div class="col-6">
+                <h3>{{ .title | markdownify }}</h3>
+                <p>{{ .text | markdownify }}</p>
+            </div>
+            <div class="col-4">
+                <img src="/images/makewithpride/{{ .image }}" />
+            </div>
+                  {{ $image_right = 1 }}
+        </div>
+                  {{ else }}
+            <div class="col-4">
+                <div class="feature-image">
+                    <img src="/images/makewithpride/{{ .image }}" />
+                    <p class="address">{{ .image_credit | markdownify }}</p>
+                </div>
+            </div>
+            <div class="col-6">
+                <h3>{{ .title | markdownify }}</h3>
+                <p>{{ .text | markdownify }}</p>
+            </div>
+                  {{ $image_right = 0 }}
+        </div>
+                  {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+          {{ end }}
+{{end}}
