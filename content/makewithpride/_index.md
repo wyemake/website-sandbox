@@ -37,5 +37,6 @@ sections:
 
         If you want us to run a course on a specific craft or technique that you think will help you make an impact, get in touch with us and we'll see what we can do.
       image: action.png
-      image_credit: Photo by [Rangi Siebert](https://unsplash.com/@zuiraito?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-group-of-people-holding-up-a-sign-that-says-cant-even-think-straight-AX0XRaBjLdI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+      image_credit: Photo by [Samuel Regan-Asante](https://unsplash.com/@fkaregan?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-woman-in-fishnet-stockings-and-fishnet-stockings-is-holding-a-colorful-bird-wings-iKFxqYyUrOo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+  
 ---
