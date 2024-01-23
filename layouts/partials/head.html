@@ -31,9 +31,6 @@
   <!-- Grafana Frontend Observability -->
   <!-- Paste the following snippet in the head element of your page or pages. -->
 
-<script type="module">
-    import { faro } from '@grafana/faro-web-sdk';
-</script>
 <script>
 
 (function () {
@@ -75,6 +72,9 @@
   // Append the Web-SDK script script tag to the HTML page
   document.head.appendChild(webSdkScript);
 })();
+
+// there's a global property
+const faro = window.GrafanaFaroWebSdk;
 </script>
 
 <!-- End Grafana Frontend Observability -->

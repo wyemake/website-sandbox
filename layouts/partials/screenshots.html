@@ -53,7 +53,7 @@
                       </ul>
                   </div>
                   <h4>
-                      <a href="https://members.makemonmouth.co.uk/register/" alt="Link to the Make Monmouth Registration Page" target="_blank" onClick="faro.api.pushEvent('click_sign_up_button')">
+                      <a href="https://members.makemonmouth.co.uk/register/" alt="Link to the Make Monmouth Registration Page" target="_blank" onClick="window.GrafanaFaroWebSdk.faro.api.pushEvent('click_register_button_{{ lower .title }}')">
                               {{ .cta }}
                       </a>
                     </h4>
