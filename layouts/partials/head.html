@@ -31,7 +31,11 @@
   <!-- Grafana Frontend Observability -->
   <!-- Paste the following snippet in the head element of your page or pages. -->
 
+<script type="module">
+    import { faro } from '@grafana/faro-web-sdk';
+</script>
 <script>
+
 (function () {
   var webSdkScript = document.createElement("script");
 
