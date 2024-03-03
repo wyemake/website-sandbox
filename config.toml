@@ -55,8 +55,8 @@ github = "https://github.com/MakeMonmouth"
 
 # Header
 logo = "images/MakeMonmouth_Logo_Alt-01_20230920.svg"
-fabFormURL = "https://fabform.io/f/zWMBVeW"
-googleAnalytics = "G-4D14L44C5V"
+fabFormURL = ""
+googleAnalytics = "G-J6L7ZCKF3C"
 
 # Footer
 footerTitle = "Make Monmouth CIC"
