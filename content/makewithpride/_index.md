@@ -15,11 +15,15 @@ sections:
       image_credit: Photo by [42 North](https://www.pexels.com/photo/white-and-multicolored-love-is-love-banner-1280638/)
     - title: Lights!
       text:  | 
+        ### 16th March 2024
+
         Always wanted to look like Daft Punk as you sashay down the road?  
 
         Want that little bit of extra to make your costume stand out as you march?
 
         Join our workshop and learn how you can make the most of EL Wire and LED's to really make your outfit pop!
+
+        [BOOK YOUR TICKETS NOW!](https://events.makemonmouth.co.uk/event/make-with-pride-lights)
       image: lights.png
       image_credit: Photo by [Jason Leung](https://unsplash.com/@ninjason?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/assorted-color-led-lights-AxKqisRPQSA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
     - title: Camera!
