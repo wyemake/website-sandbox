@@ -1,0 +1,35 @@
+{{ with .Site.Data.makewithpride }}
+  {{ if .enable }}
+    <section class="hero" id="makewithpride">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-6 order-1 order-lg-1">
+            <div class="hero-image">
+                <a href="/makewithpride" alt="The MakeWithPride events page">
+              <img src={{ .image }} alt="The MakeWithPride Banner" style="transform: scale(0.75);" />
+                </a>
+            </div>
+          </div>
+          <div class="col-lg-6 order-2 order-lg-2">
+            <div class="hero-content">
+              <span class="hero-content-subtitle"> {{ .caption }} </span>
+              <h1> {{ .title }} </h1>
+              <p> {{ .description }} </p>
+              <ul class="hero-content-buttons">
+                <li>
+                  <a href="/makewithpride" class="btn-platform">
+                    <img src="/images/noun-checkbox-1085845.svg" height=25 width=25 />
+                    <div class="btn-platform-area">
+                      <span> {{ .buttonName }} </span>
+                      {{ .button1text }}
+                    </div>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+{{ end }}
