@@ -15,7 +15,7 @@ sections:
       image_credit: Photo by [42 North](https://www.pexels.com/photo/white-and-multicolored-love-is-love-banner-1280638/)
     - title: Lights!
       text:  | 
-        ### 16th March 2024
+        ### 20th April 2024
 
         Always wanted to look like Daft Punk as you sashay down the road?  
 
