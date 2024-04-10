@@ -22,6 +22,11 @@ command = "hugo -b $DEPLOY_PRIME_URL"
   to   = "https://members.makemonmouth.co.uk/login"
   status = 301
   force = true
+[[redirects]]
+  from = "/discord"
+  to   = "https://discord.gg/DN8Rup7g4t"
+  status = 301
+  force = true
 
 [[headers]]
     for = "/*"
