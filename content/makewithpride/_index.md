@@ -2,6 +2,9 @@
 title: "#MakeWithPRIDE"
 date: 2024-01-08T11:25:11+06:00
 subTitle: |
+
+    ** MakeWithPride EVENTS ARE ON HOLD FOR THE FORESEEABLE FUTURE. PLEASE KEEP CHECKING THIS PAGE AND OUR SOCIAL MEDIA FOR FURTHER UPDATES **
+
     A series of events for the LGBTQIA+ community and their allies to come together and work on costumes, crafts, and other ideas for PRIDE festivals.
 
     Keep an eye on our social media and the page below for more updates!
@@ -13,9 +16,8 @@ sections:
         #MakeWithPRIDE is our way of showing that we believe our approach to creativity is something that extends from the physical space out into the wider community, so come along to our workshops and events learn how you can ensure your costume stands out!
       image: whatson.png
       image_credit: Photo by [42 North](https://www.pexels.com/photo/white-and-multicolored-love-is-love-banner-1280638/)
-    - title: Lights!
+    - title: CANCELLED - Lights!
       text:  | 
-        ### 20th April 2024
 
         Always wanted to look like Daft Punk as you sashay down the road?  
 
@@ -23,7 +25,7 @@ sections:
 
         Join our workshop and learn how you can make the most of EL Wire and LED's to really make your outfit pop!
 
-        [BOOK YOUR TICKETS NOW!](https://events.makemonmouth.co.uk/event/make-with-pride-lights)
+        
       image: lights.png
       image_credit: Photo by [Jason Leung](https://unsplash.com/@ninjason?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/assorted-color-led-lights-AxKqisRPQSA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
     - title: Camera!
