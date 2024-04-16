@@ -11,10 +11,11 @@
               <p>{{ .subheading }}</p>
             </div>
           </div>
+          <div class="row row-cols-1 row-cols-md-3 g-4">
           {{ $services := .services }}
           {{ range $services }}
             <div class="col-lg-4 col-md-6">
-              <div class="service-item">
+              <div class="card service-item">
                 <div class="service-icon">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -38,9 +39,10 @@
                   </svg>
                   <i class="{{ .icon }}"></i>
                 </div>
-                <div class="service-content">
-                  <h4>{{ .title }}</h4>
-                  <p>{{ .description }}</p>
+                <div class="card-body">
+                  <h4 class="card-title">{{ .title }}</h4>
+                  <h5 class="card-title">£{{ lang.FormatNumberCustom 2 .cost }}/{{ .per}}</h5>
+                  <p class="card-text">{{ .description }}</p>
                   <div class="feature-content-list">
                       <ul>
                           {{ $list_items := .list_items }}
@@ -52,17 +54,17 @@
                           {{ end }}
                       </ul>
                   </div>
-                  <h4>
+                </div>
+                <div class="card-footer">
                       <a href="https://members.makemonmouth.co.uk/register/" alt="Link to the Make Monmouth Registration Page" target="_blank" onClick="window.GrafanaFaroWebSdk.faro.api.pushEvent('click_register_button_{{ lower .title }}')">
                               {{ .cta }}
                       </a>
-                    </h4>
                 </div>
               </div>
             </div>
           {{ end }}
+          </div>
            </div>
-           <p style="text-align: center">* Supporters are limited to attendance on 50% of member nights or 1 night/month, whichever is the greater.</p>
         </div>
       </div>
     </section>
