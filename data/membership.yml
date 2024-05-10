@@ -1,39 +1,27 @@
 #  icons can be found on https://themify.me/themify-icons
 ---
 enable: true
-title: How much does it cost?
-subheading: All our visitors get free WiFi, members and supporters help us decide what we want to buy and what we want to do with the space.
+title: What do I get as a member?
+subheading: All our members and supporters get free WiFi, access to the space, and can help us decide what we want to buy and what we want to do with the space.  There's not a lot between the two tiers at the moment, but as we grow, that will change!
 services:
-  - icon: ti-user
-    title: Pay As You Go
-    cost: 2.50
-    per: visit
-    description: For the casual maker
-    list_items:
-      - Access to the space when we're open
-      - Access to our public Discord channels
-      - Access to tools and equipment once the induction process is complete
-    cta: Sign Up Today!
   - icon: ti-user
     title: Supporter
     cost: 5
-    per: month
-    description: For the hobbyist in all of us
+    description: For those who want space to build and create
     list_items:
-      - All the benefits of Pay As You Go
+      - Access to the space on Open Nights
+      - Access to the space on member and supporter nights*
       - Access to our online Learning Platform
-      - Access to members/supporters private Discord channels
-      - Have a say in the way the space is run and the equipment we buy
-      - Early access to event tickets and workshops
       - Request storage space for long-running projects
     cta: Sign Up Today!
+
   - icon: ti-user
     title: Member
     cost: 10
-    per: month
-    description: For the serious creator
+    description: For those who want to come along more often
     list_items:
-      - All the benefits of being a Supporter
+      - "Everything a supporter gets"
       - Request access to the space even when we're closed
       - Priority storage access
+      - First refusal on events
     cta: Sign Up Today!
