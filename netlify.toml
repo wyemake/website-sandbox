@@ -27,6 +27,11 @@ command = "hugo -b $DEPLOY_PRIME_URL"
   to   = "https://discord.gg/DN8Rup7g4t"
   status = 301
   force = true
+[[redirects]]
+  from = "/fuel-prices"
+  to   = "https://makemonmouth.grafana.net/public-dashboards/696349f7c11a4b9199ff41ed564b373f?orgId=1"
+  status = 301
+  force = true
 
 [[headers]]
     for = "/*"
