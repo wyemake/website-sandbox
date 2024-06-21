@@ -99,16 +99,20 @@ async function getEvents() {
     const events = await event_list_response.json();
     const event_detail_response = await fetch("https://events.makemonmouth.co.uk/api/v2/public/event/" + events[0]['shortName']);
     const event_detail = await event_detail_response.json();
-    let eventHeader = "<h4 class=\"event-text\">Our next event is "+
-        events[0]['title']['en'] + " on " + events[0]['formattedBeginDate']['en'] + 
-        " starting at " + events[0]['formattedBeginTime']['en'] + ".</h4>";
+    let eventName = events[0]['title']['en'];
+    let eventDate = events[0]['formattedBeginDate']['en'];
+    let eventStartTime = events[0]['formattedBeginTime']['en'];
     let eventLocInfo = "<p>This event is at " + event_detail['location'] + "</p>";
     let eventMap = "<img src=\"" + event_detail['mapUrl'] + "&key=AIzaSyCaF92FO7gCN-KXxLifsT8BWOkHD7IyPNY\" title=\"A map of " + event_detail['location'] + "\" />"; 
+    let eventUri = "https://events.makemonmouth.co.uk/event/" + events[0]['shortName'] + "/";
     let eventBody = "<p>" + event_detail['description']['en'] + "</p><p><a href=\"https://events.makemonmouth.co.uk/event/" + events[0]['shortName'] + "/\" target=\"_blank\" title=\"Book a ticket for " + events[0]['title']['en'] + "\">Book your ticket now!</a>";
-    document.getElementById('eventHeader').innerHTML = eventHeader;
+    document.getElementById('eventDate').innerHTML = eventDate;
+    document.getElementById('eventName').innerHTML = eventName;
     document.getElementById('eventBody').innerHTML = eventBody;
     document.getElementById('eventLocInfo').innerHTML = eventLocInfo;
     document.getElementById('eventMap').innerHTML = eventMap;
+    document.getElementById('eventUri').href = eventUri;
+
 }
 </script>
 <noscript><img height="1" width="1" style="display:none"
