@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="{{ "themify/themify.css" | absURL }}">
 
   {{ "<!-- Critical CSS -->" | safeHTML }}
-  {{ $stylex := resources.Get "scss/critical.scss" | resources.ToCSS | minify }}
+  {{ $stylex := resources.Get "scss/critical.scss" | css.Sass | minify }}
   <link href="{{ $stylex.Permalink }}" rel="stylesheet" />
 
   {{ "<!--Favicon-->" | safeHTML }}
@@ -92,29 +92,8 @@ s.parentNode.insertBefore(t,s)}(window, document,'script',
 fbq('init', '404769362132290');
 fbq('track', 'PageView');
 
-// Get the details of the next event from the API
-
-async function getEvents() {
-    const event_list_response = await fetch("https://events.makemonmouth.co.uk/api/v2/public/events");
-    const events = await event_list_response.json();
-    const event_detail_response = await fetch("https://events.makemonmouth.co.uk/api/v2/public/event/" + events[0]['shortName']);
-    const event_detail = await event_detail_response.json();
-    let eventName = events[0]['title']['en'];
-    let eventDate = events[0]['formattedBeginDate']['en'];
-    let eventStartTime = events[0]['formattedBeginTime']['en'];
-    let eventLocInfo = "<p>This event is at " + event_detail['location'] + "</p>";
-    let eventMap = "<img src=\"" + event_detail['mapUrl'] + "&key=AIzaSyCaF92FO7gCN-KXxLifsT8BWOkHD7IyPNY\" title=\"A map of " + event_detail['location'] + "\" />"; 
-    let eventUri = "https://events.makemonmouth.co.uk/event/" + events[0]['shortName'] + "/";
-    let eventBody = "<p>" + event_detail['description']['en'] + "</p><p><a href=\"https://events.makemonmouth.co.uk/event/" + events[0]['shortName'] + "/\" target=\"_blank\" title=\"Book a ticket for " + events[0]['title']['en'] + "\">Book your ticket now!</a>";
-    document.getElementById('eventDate').innerHTML = eventDate;
-    document.getElementById('eventName').innerHTML = eventName;
-    document.getElementById('eventBody').innerHTML = eventBody;
-    document.getElementById('eventLocInfo').innerHTML = eventLocInfo;
-    document.getElementById('eventMap').innerHTML = eventMap;
-    document.getElementById('eventUri').href = eventUri;
-
-}
 </script>
+<script async src="http://localhost:8123/widget.js"></script>
 <noscript><img height="1" width="1" style="display:none"
 src="https://www.facebook.com/tr?id=404769362132290&ev=PageView&noscript=1"
 /></noscript>
