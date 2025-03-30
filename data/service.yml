@@ -1,0 +1,41 @@
+---
+enable: true
+title: "Wye Make with us?"
+subtitle: >
+          We're on a mission to tackle rural isolation within the creative community
+          all along the Wye valley.
+services:
+  - name: "Escape the dining table"
+    description: >
+                Stop crafting alone! Bring your projects with you and work
+                in a space surrounded by other creative minds of all ages and walks of life
+    icon: "ti-view-grid"
+  - name: "Access tools without buying them"
+    description: >
+                We already have tools for crafting, making, modelling, and 3D printing,
+                and we're planning to add many more!  Why try to find space for them at home when
+                you can just use ours?
+    icon: "ti-infinite"
+  - name: "Learn new skills"
+    description: >
+                Our workshops and drop-in sessions will give you the skills you need
+                to finish that project you started! Don't see a workshop on the subject you want? Ask us and we'll
+                do our best to put one on!
+    icon: "ti-help-alt"
+  - name: "Affordable attendance"
+    description: >
+                Membership starts from just £5/month and enables us to grow the space and buy new tools.
+                Don't want to commit to a monthly payment? No worries! Your first session is free then it's just
+                £2.50 per visit
+    icon: "ti-credit-card"
+  - name: "Young people welcome"
+    description: >
+                Young people over the age of 12 are welcome to come along and bring their own crafts to work on.
+                As they get older they can learn how to use the machines under supervision, and then apply to fly solo!
+    icon: "ti-blackboard"
+  - name: "Help build the dream"
+    description: >
+                Your attendance and support helps us work towards our goal - a 24x7x365 workspace enabling all our members
+                and supporters to make, build, and create!
+    icon: "ti-image"
+---

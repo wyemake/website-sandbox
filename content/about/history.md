@@ -12,8 +12,6 @@ A lack of suitable jobs in the immediate Monmouth area meant he was travelling t
 
 It started with a [Facebook Group](https://www.facebook.com/groups/makemonmouth) and a rant about the future of the town, then became a meeting at a local restaurant, and from there we discovered our home at [Woodland Stores](https://what3words.com/croutons.sonic.broads).
 
-{{< gallery src="/images/robot.jpg" caption="Robots on pub tables were not unusual in the early days!" >}}
-
 Throughout 2018 and 2019 we had a very casual approach to it all - we met up twice a month, people paid what they could afford, and we usually covered the amount needed to pay for the space during those few hours we were open.  Then COVID-19 struck, and we were all locked down.
 
 Unlike many other groups that were able to move online and keep the momentum going, we really struggled.  A number of our members didn't want to take part in "yet another zoom call" after a day of other video calls, and demonstrating what a robot can do via a video chat really isn't the same as when you meet in person.
@@ -23,8 +21,6 @@ What this time did give us, however, was a determination to ensure Make Monmouth
 In 2021, whilst lockdowns were still in place, we took the decision to incorporate as a not-for-profit Community Interest Company, with a board of directors who would work on an entirely voluntary basis.
 
 As the world started to open up again, we also started to hold meetings, but this time with a proper rental agreement in place, a bank account, and insurance!
-
-{{< gallery src="/images/woodlandstores.jpg" caption="Our current home at Woodland Stores, Wyesham" >}}
 
 In the past 6 months, we've seen our membership grow from our four directors to 10 paying members with many others coming along to our free Open Night on a regular basis.  Our facebook group nows has over 350 members, and is growing all the time.
 

@@ -1,0 +1,15 @@
+---
+title : "We're building the creative space of your dreams"
+enable: true
+subtitle: >
+  Wye Make is a space to create, build, and craft alongside others, with access to a wide range of tools. Our goal is to eventually be open 24/7, 365 days a year, giving you everything you need to bring your ideas to life.
+galleryImage: 
+ - image: "images/gallery/silhouette.jpg"
+   description: Use our Silhouette Cameo craft cutter to create anything from posters to tote-bags
+ - image: "images/gallery/3dprinter.jpg"
+   description: Learn how to use a 3D printer and print your own designs
+ - image: "images/gallery/electronics.jpg"
+   description: Analyse your electronics projects
+ - image: "images/gallery/modellingTools.jpg"
+   description: Explore our hobby tools and expand your modelling options
+---

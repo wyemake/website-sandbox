@@ -1,0 +1,29 @@
+---
+enable: true
+title: "Affordable membership to help us grow"
+subtitle: >
+          Every person who takes out a monthly subscripion helps us get one step closer
+          to our goal of a 24x7x364 space.
+
+          With prices starting at just £5/month, we're sure you'll agree it's an excellent offer!
+buttonTarget: "contact"
+itemPrices:
+  - packcage: "Supporter"
+    description: >
+                Get access to the space when we're open and the use of our tools unattended (induction required for 3D Printer and other tools).
+                You'll also get early access to workshops and training sessions.
+    price: 5
+    badge: 
+  - packcage: "Member"
+    description: >
+                Everything our supporters get as well as priority access to workshops and training sessions.
+                If we make it to our goal of being open 24x7x365, you'll get priority access to storage as well as other benefits!
+    price: 10
+    badge: popular
+      #  - packcage: "Monthly"
+      #    description: >
+      #                Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, 
+      #                quas nesciunt vitae suscipit necessitatibus ea.
+      #    price: 99
+      #    badge:
+---
