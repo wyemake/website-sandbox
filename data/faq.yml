@@ -12,10 +12,12 @@ faq:
     answer: >
       Just [visit our membership portal](https://members.makemonmouth.co.uk/) and sign up for an account,
             then follow the prompts to setup your monthly payment
-  - question: "Q. What are entry requirements?"
+  - question: "Q. Do you havea  code of conduct?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
-  - question: "Q. How do I get a reference?"
+            Yes. Anyone who attends any of our events agrees to abide by our [Code of Conduct](https://docs.makemonmouth.co.uk/en/latest/code-of-conduct/) at all times.
+            Failure to do so may result in being asked to leave.
+  - question: "Q. How do I find out more?"
     answer: >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, consectetur?
+            Come along to one of our regular meetings, email [hello@wyemake.co.uk](mailto:hello@wyemake.co.uk), 
+            or [join the Discord server](https://wyemake.co.uk/discord)
 ---

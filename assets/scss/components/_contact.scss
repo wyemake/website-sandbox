@@ -1,6 +1,6 @@
 .contact {
   &-aria {
-    background: #222029;
+    background: $primary-color;
     padding: 100px;
     @include desktop {
       text-align: center;
