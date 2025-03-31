@@ -31,6 +31,7 @@
     border-radius: 0px 5px 5px 5px;
 
     h3 {
+      color: $primary-color;
       @include mobile-xs {
         margin-top: 20px;
       }
@@ -38,7 +39,7 @@
       a {
         font-size: 18px;
         line-height: 26px;
-        color: $text-color-dark;
+        color: $primary-color;
         text-transform: capitalize;
 
         @include mobile-xs {
@@ -47,7 +48,7 @@
 
         &:hover {
           text-decoration: none;
-          color: $primary-color;
+          color: $secondary-color;
         }
       }
 
@@ -69,6 +70,7 @@
       &:hover {
         text-decoration: none;
         letter-spacing: 1px;
+        color: $secondary-color;
       }
     }
   }
@@ -89,7 +91,7 @@
           border-radius: 5px;
           border: none;
           padding: 12px 20px;
-          color: $text-color-dark;
+          color: $primary-color;
           font-weight: 300;
           transition: all 0.3s ease;
           font-family: $primary-font;
@@ -123,6 +125,7 @@
     padding-bottom: 20px;
 
     h2 {
+      color: $primary-color;
       font-size: 33px;
       line-height: 35px;
 
@@ -170,7 +173,7 @@
       p{
         font-size: 20px;
         line-height: 30px;
-        color: $text-color-dark;
+        color: $border-color;
         margin-bottom: 40px;
         font-family: $primary-font;
         font-weight: 400;
