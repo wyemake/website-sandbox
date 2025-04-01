@@ -57,11 +57,12 @@ title = 'Wye Make'
   openingDesc = "Open on the first and third Tuesdays of each month"
   openingHours = "Between 7:30pm and 9:30pm"
   phone = ""
+  w3w = "https://what3words.com/craft.shampoo.unicorns"
 
   [params.map]
   APIkey = "AIzaSyDege-HGP-PONAUfDqomlq4FvCrKxS1KeE"
-  latitude = "51.8068371"
-  longitude = "-2.7283282"
+  latitude = "51.8067597"
+  longitude = "-2.7260575"
   pinImage = "images/pin.png"
 
   # Socail icons
