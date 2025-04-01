@@ -6,30 +6,30 @@ title = 'Wye Make'
  
 [Menu]
   # Main Menu
+#  [[menu.Main]]
+#  name = "About Us"
+#  url= "#gallery"
+#  weight = 1
   [[menu.Main]]
-  name = "About Us"
-  url= "#gallery"
-  weight = 1
-  [[menu.Main]]
-  name = "Our Offering"
+  name = "Wye Us?"
   url= "#service"
-  weight = 2
-  [[menu.Main]]
-  name = "Blog"
-  url= "#blog"
-  weight = 4
+  weight = 1
+#  [[menu.Main]]
+#  name = "Blog"
+#  url= "#blog"
+#  weight = 4
   [[menu.Main]]
   name = "Membership"
   url= "#pricing"
-  weight = 5
+  weight = 2
   [[menu.Main]]
   name = "FAQ"
   url= "#faq"
-  weight = 6
-  [[menu.Main]]
-  name = "Contact"
-  url= "/contact/"
-  weight = 7
+  weight = 3
+#  [[menu.Main]]
+#  name = "Contact"
+#  url= "/contact/"
+#  weight = 7
 
   # Sitemap Menu
   [[menu.sitemap]]
@@ -42,8 +42,8 @@ title = 'Wye Make'
   weight = 2
 
 [params]
-  aboutPageURL = "blog"
-  contactLink = "contact"
+  aboutPageURL = "/"
+  contactLink = "/"
   copyright = "© {year} <a href=\"https://wyemake.co.uk/\" target=\"_blank\">Wye Make</a>"
   fabFormURL =  "https://fabform.io/f/u00kv3-"
   googleAnalytics = "G-JZ95FEWF9K"
@@ -66,7 +66,7 @@ title = 'Wye Make'
 
   # Socail icons
   [[params.social]]
-  icon = "ti-discord"
+  icon = "ti-comments"
   url = "https://www.wyemake.co.uk/discord"
   weight = 1
   [[params.social]]
