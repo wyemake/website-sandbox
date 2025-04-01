@@ -6,6 +6,6 @@ subtitle: >
         Access craft cutters, 3D printers,
         and a space to be creative for less than the price of a coffee
 heroBGimg: "images/hero/hero-bg.jpg"
-heroVideo : "https://vimeo.com/45830194?autoplay=1&rel=0"
-herosVideoDesc: "<span> <strong>Wye Make</strong> in 30 Seconds</span>"
+  #heroVideo : "https://vimeo.com/45830194?autoplay=1&rel=0"
+  #herosVideoDesc: "<span> <strong>Wye Make</strong> in 30 Seconds</span>"
 ---
