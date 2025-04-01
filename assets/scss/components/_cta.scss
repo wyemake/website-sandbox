@@ -1,0 +1,18 @@
+.cta {
+  padding-bottom: 50px;
+  @include tablet {
+    padding-bottom: 20px;
+  }
+  &-content {
+    text-align: center;
+
+    h2 {
+      margin-bottom: 15px;
+      color: $primary-color;
+
+      @include mobile-xs {
+        font-size: 20px;
+      }
+    }
+  }
+}

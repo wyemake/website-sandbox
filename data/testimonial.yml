@@ -1,24 +1,8 @@
 ---
-enable: false
-title: What do our members think?
-description: 
-comments:
-  - text: I've been struggling to find ways to be sociable since COVID and Make Monmouth has given me a fun, safe environment to hang out with like minded folk. The bonus is that I also get to work on a project that I've been failing to commit time to at home because there's always something else to do.
-    name: Owen
-    designation: Co-founder
-    image: images/client/client-2.png
-
-  - text: Make Monmouth gets me out of the house whilst still enabling me to work on the projects I'd usually be doing in my garage.  I can get advice from other members, have a good laugh, and it does wonders for my mental health!
-    name: Matt
-    designation: Co-founder
-    image: images/client/client-2.png
-
-  - text: I think Makerspaces are a brilliant idea for meeting new people with interesting ideas and skills. The access to equipment and people who can teach me how to use them is great. I looked at the map on https://www.hackspace.org.uk/ but there is a dearth of them in my area so I travel 30 miles each way and I think it is well worth it.
-    name: Kevin
-    designation: Member
-    image: images/client/client-2.png
-
-  - text: I've loved coming along to Make Monmouth - it's a great place to meet people with common interests and learn new skills!
-    name: Poppy
-    designation: Junior Member
-    image: images/client/client-2.png
+enable: true
+testimonial:
+  - author: "TechCrunch"
+    testimonialDetails: "Behind every great product, there is a great mind"
+  - author: "Yarnban"
+    testimonialDetails: "Behind every great product, there is a great mind"
+---

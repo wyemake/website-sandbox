@@ -1,22 +1,23 @@
 ---
 enable: true
-title: Frequently asked questions
-description: |
-  Got a question about the group? Look here first!
-  
-  If it's not here, drop us an email
-faqItem:
-  - question: When do you meet?
-    answer: Open Nights are on the first Tuesday of every month, with member nights on the third Tuesday.  All meetings run between 7:30pm and 9:30pm at [Overmonnow Family Learning Centre, NP25 5AR](https://what3words.com/outreach.observers.octagonal)
-    dataTarget: One
-    show: show
-
-  - question: Is there any age limit?
-    answer: We welcome anyone from the age of 12 upwards however, there are [rules in place](https://docs.makemonmouth.co.uk/en/latest/rules/03_young_people/) for younger people to ensure their safety. Anyone under the age of 18 *MUST* be accompanied by an adult at all times.
-    dataTarget: Two
-    show:
-    
-  - question: How much is membership?
-    answer: Supporters are £5/month, members are £10/month.  For more information on the differences between the two, [please see the section above](/#membership).
-    dataTarget: Three
-    show: 
+title: "Frequently Asked Questions"
+faq:
+  - question: "Q. When do you meet?"
+    answer: >
+      Our meetings are on the first and third Tuesdays of each month, between 7:30pm and 9:30pm
+  - question: "Q. Where do you meet?"
+    answer: >
+            We meet at Overmonnow Family Learning Centre in Monmouth and you can find a map of our location further down this page
+  - question: "Q. How do I become a member or supporter?"
+    answer: >
+      Just [visit our membership portal](https://members.makemonmouth.co.uk/) and sign up for an account,
+            then follow the prompts to setup your monthly payment
+  - question: "Q. Do you have a code of conduct?"
+    answer: >
+            Yes. Anyone who attends any of our events agrees to abide by our [Code of Conduct](https://docs.makemonmouth.co.uk/en/latest/code-of-conduct/) at all times.
+            Failure to do so may result in being asked to leave.
+  - question: "Q. How do I find out more?"
+    answer: >
+            Come along to one of our regular meetings, email [hello@wyemake.co.uk](mailto:hello@wyemake.co.uk), 
+            or [join the Discord server](https://wyemake.co.uk/discord)
+---

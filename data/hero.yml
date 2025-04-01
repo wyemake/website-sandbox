@@ -1,7 +1,11 @@
 ---
+title : "<h1>YOUR CREATIVE HOME
+            <br> IN THE WYE VALLEY</h1>"
 enable: true
-title: Your Community Makerspace
-caption: Make Monmouth
-description: The perfect environment for people of all ages, backgrounds, and skills to escape the shed or spare room and work on their projects in the company of like-minded others.
-button1text: Join us today!
-image: images/hero/hero-image.png
+subtitle: >
+        Access craft cutters, 3D printers,
+        and a space to be creative for less than the price of a coffee
+heroBGimg: "images/hero/hero-bg.jpg"
+  #heroVideo : "https://vimeo.com/45830194?autoplay=1&rel=0"
+  #herosVideoDesc: "<span> <strong>Wye Make</strong> in 30 Seconds</span>"
+---

@@ -1,67 +1,85 @@
-# MAIN base
-baseURL = "https://www.makemonmouth.co.uk/"
-languageCode = "en-gb"
-title = "Make Monmouth | Monmouth's Community Makerspace"
-theme = "apsho"
+baseURL = 'https://wyemake.co.uk'
+languageCode = 'en-gb'
+pagination.pagerSize = 6
+theme= "coHub"
+title = 'Wye Make'
+ 
+[Menu]
+  # Main Menu
+#  [[menu.Main]]
+#  name = "About Us"
+#  url= "#gallery"
+#  weight = 1
+  [[menu.Main]]
+  name = "Wye Us?"
+  url= "#service"
+  weight = 1
+#  [[menu.Main]]
+#  name = "Blog"
+#  url= "#blog"
+#  weight = 4
+  [[menu.Main]]
+  name = "Membership"
+  url= "#pricing"
+  weight = 2
+  [[menu.Main]]
+  name = "FAQ"
+  url= "#faq"
+  weight = 3
+#  [[menu.Main]]
+#  name = "Contact"
+#  url= "/contact/"
+#  weight = 7
 
-# Navigation Bar
-[[menu.main]]
-    name = "Home"
-    url = "#hero"
-    weight = 1
-[[menu.main]]
-    name = "About"
-    url = "#feature"
-    weight = 2
-[[menu.main]]
-    name = "Membership"
-    url = "#membership"
-    weight = 3
-[[menu.main]]
-    name = "FAQ"
-    url = "#faq"
-    weight = 4
-[[menu.main]]
-    name = "Login"
-    url = "/login"
-    weight = 5
-
-# Footer Sitemap
-[[menu.sitemap]]
-    name = "Home"
-    url = "#"
-    weight = 1
-[[menu.sitemap]]
-    name = "Privacy Policy"
-    url = "/privacy"
-    weight = 3
-[[menu.sitemap]]
-    name = "Contact"
-    url = "/contact"
-    weight = 4
-
-# Footer Address
-[params.address]
-address = "Overmonnow Family Learning Centre, Victoria Court, Monmouth, NP25 5AR"
-email = "info@makemonmouth.co.uk"
-#phone = "+(448) 833 5272 332"
-
-# Footer Social
-[params.social]
-facebook = "https://www.facebook.com/groups/makemonmouth"
-github = "https://github.com/MakeMonmouth"
+  # Sitemap Menu
+  [[menu.sitemap]]
+  name = "Privacy Policy"
+  url = "/privacy/"
+  weight = 1
+  [[menu.sitemap]]
+  name = "Terms"
+  url = "/terms/"
+  weight = 2
 
 [params]
+  aboutPageURL = "/"
+  contactLink = "/"
+  copyright = "© {year} <a href=\"https://wyemake.co.uk/\" target=\"_blank\">Wye Make</a>"
+  fabFormURL =  "https://fabform.io/f/u00kv3-"
+  googleAnalytics = "G-JZ95FEWF9K"
+  logo = "images/logo.png"
+  footerlogo = "images/logo.png"
+  footerDescription = "Tackling rural isolation in the creative community all along the Wye Valley"
 
-# Header
-logo = "images/MakeMonmouth_Logo_Alt-01_20230920.svg"
-fabFormURL = ""
-googleAnalytics = "G-J6L7ZCKF3C"
+  [params.address]
+  address = "Overmonnow Family Learning Centre<br>Monmouth, NP25 5AR"
+  email = "hello@wyemake.co.uk"
+  openingDesc = "Open on the first and third Tuesdays of each month"
+  openingHours = "Between 7:30pm and 9:30pm"
+  phone = ""
 
-# Footer
-footerTitle = "Make Monmouth CIC"
-copyright1 = "All right reserved"
-copyright2 = "&copy; Make Monmouth CIC {year}"
+  [params.map]
+  APIkey = "AIzaSyDege-HGP-PONAUfDqomlq4FvCrKxS1KeE"
+  latitude = "51.8068371"
+  longitude = "-2.7283282"
+  pinImage = "images/pin.png"
 
-#contact
-email = "info@makemonmouth.co.uk"
+  # Socail icons
+  [[params.social]]
+  icon = "ti-comments"
+  url = "https://www.wyemake.co.uk/discord"
+  weight = 1
+  [[params.social]]
+  icon = "ti-github"
+  url = "https://github.com/wyemake"
+  weight = 2
+#  [[params.social]]
+#  icon = "ti-dribbble"
+#  url = "https://dribbble.com/"
+#  weight = 3
+#  [[params.social]]
+#  icon = "ti-instagram"
+#  url = "https://www.instagram.com/"
+#  weight = 4
+  
+  
