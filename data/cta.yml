@@ -3,5 +3,5 @@ enable: true
 title: "Visit Wye Make"
 buttonTarget: "/#contact"
 buttonText: Get in touch to find out more
-priceLink: "#priceLink"
+priceLink: "#pricing"
 ---
