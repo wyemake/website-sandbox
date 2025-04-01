@@ -25,12 +25,11 @@ services:
   - name: "Affordable attendance"
     description: >
                 Membership starts from just £5/month and enables us to grow the space and buy new tools.
-                Don't want to commit to a monthly payment? No worries! Your first session is free then it's just
-                £2.50 per visit
+                If a monthly committment isn't for you, you can pay as you go for just £2.50 per visit
     icon: "ti-credit-card"
   - name: "Young people welcome"
     description: >
-                Young people over the age of 12 are welcome to come along and bring their own crafts to work on.
+                Young people over the age of 12 are [welcome to come along](https://docs.makemonmouth.co.uk/en/latest/rules/03_young_people/) and bring their own crafts to work on.
                 As they get older they can learn how to use the machines under supervision, and then apply to fly solo!
     icon: "ti-blackboard"
   - name: "Help build the dream"

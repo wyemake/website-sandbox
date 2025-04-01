@@ -55,7 +55,7 @@ title = 'Wye Make'
   address = "Overmonnow Family Learning Centre<br>Monmouth, NP25 5AR"
   email = "hello@wyemake.co.uk"
   openingDesc = "Open on the first and third Tuesdays of each month"
-  openingHours = "Betwen 7:30pm and 9:30pm"
+  openingHours = "Between 7:30pm and 9:30pm"
   phone = ""
 
   [params.map]
