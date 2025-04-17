@@ -8,10 +8,13 @@ investor:
   - name: "Monmouth Town Council"
     post: "Grant Funding for equipment"
     image: "images/sponsors/monmouth_town_council.jpg"
+    link: "https://www.monmouth.gov.uk/"
   - name: "Bitfolk"
     post: "Hosting for our membership platform"
+    link: "https://bitfolk.com/"
     image: "images/sponsors/bitfolk.png"
   - name: "The Edinburgh Remakery"
     post: "Donations of computer hardware"
     image: "images/sponsors/edinburgh_remakery_square.png"
+    link: "https://www.edinburghremakery.org.uk/"
 ---

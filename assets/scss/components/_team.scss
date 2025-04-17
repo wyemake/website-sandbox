@@ -1,5 +1,8 @@
 .team {
   background-color: $bg-color;
+  a {
+    color: inherit;
+  }
   p {
   color: $primary-color;
 }

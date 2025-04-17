@@ -15,10 +15,10 @@
       <div class="col-lg-3">
         <div class="member-informashion">
           <div class="member-thume">
-              <img src="{{ .image | absURL }}" alt="{{ .name }}'s logo">
+              <a href="{{ .link }}" target="_blank" alt="A link to the {{ .name }} website."><img src="{{ .image | absURL }}" alt="{{ .name }}'s logo"></a>
           </div>
-          <h3>{{.name}}</h3>
-          <p>{{.post}}</p>
+          <h3><a href="{{ .link }}" target="_blank" alt="A link to the {{ .name }} website.">{{.name}}</a></h3>
+          <p><a href="{{ .link }}" target="_blank" alt="A link to the {{ .name }} website.">{{.post}}</a></p>
         </div>
       </div>
       {{end}}
