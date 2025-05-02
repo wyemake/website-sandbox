@@ -1,0 +1,45 @@
+{{with .Site.Data.feedback}}
+{{if .enable}}
+<section class="testimonial"  style="background-image: url( {{ .backgroundImage }} );">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <div class="testimonial-content">
+            <div class="contact-form">
+            <form action="https://mailout.wyemake.org.uk/forms/nfrm_weLJnLY5" id="contact-form" method="post">
+
+  <h1 style="color: #d17c5b">
+    Join our newsletter!
+  </h1>
+  <div>
+      <p>Get random, infrequent, and sometimes even interesting information about what we&#39;re up to delivered straight to your inbox!</p>
+  </div>
+  <div class="flex flex-col">
+    <input id="contact_email" name="contact[email]" placeholder="Your email" type="email" class="form-control"/>
+  </div>
+  <div class="flex flex-col">
+    <input id="contact_first_name" name="contact[first_name]" class="form-control" placeholder="Your first name (optional)" type="text"/>
+  </div>
+  <div class="flex flex-col">
+    <input id="contact_last_name" name="contact[last_name]" class="form-control" placeholder="Your last name (optional)" type="text"/>
+  </div>
+  <input aria-hidden="true" autocomplete="off" name="h[url]" novalidate="" style="display: none"/>
+  <div class="flex flex-col">
+    <div class="h-captcha" data-sitekey="e25c1e6c-ba4a-4db0-aa5a-29ae24649f88" data-theme="light">
+    </div>
+    <script async="" defer="" src="https://hcaptcha.com/1/api.js">
+    </script>
+  </div>
+  <div class="flex justify-start">
+    <button class="btn btn-primary">
+      Sign up!
+    </button>
+  </div>
+</form>
+
+        </div>
+      </div>
+    </div>
+</section>
+{{end}}
+{{end}}
