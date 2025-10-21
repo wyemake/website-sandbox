@@ -1,25 +1,33 @@
 ---
 enable: true
-title: "Affordable membership to help us grow"
+title: "Get started for free!"
 subtitle: >
+          Your first visit is free, so you've got nothing to lose!
+
+          With Pay as you Go available, and membership starting at just £5/month we're sure you'll agree it's an excellent offer!
+
           Every person who takes out a monthly subscripion helps us get one step closer
           to our goal of a 24x7x364 space.
-
-          With prices starting at just £5/month, we're sure you'll agree it's an excellent offer!
 itemPrices:
+  - package: "Pay as you Go"
+    description: >
+                Get access to the space when we're open and the use of our tools unattended (induction required for 3D Printer and other tools).
+                Your first session is free then it's just £2.50 per visit with no long-term commitments
+    price: "2.50"
+    buttonTarget: "https://www.wyemake.co.uk/#contact"
   - package: "Supporter"
     description: >
                 Get access to the space when we're open and the use of our tools unattended (induction required for 3D Printer and other tools).
                 You'll also get early access to workshops and training sessions.
     price: 5
     badge: 
+    badge: popular
     buttonTarget: "https://members.makemonmouth.co.uk/register"
   - package: "Member"
     description: >
                 Everything our supporters get as well as priority access to workshops and training sessions.
                 If we make it to our goal of being open 24x7x365, you'll get priority access to storage as well as other benefits!
     price: 10
-    badge: popular
     buttonTarget: "https://members.makemonmouth.co.uk/register"
       #  - package: "Monthly"
       #    description: >
